@@ -3,7 +3,7 @@
     
     $servername = "127.0.0.1";
     $username = "root";
-    $password = "1234";
+    $password = "RTSshihab413";
     $dbname = 'todoStore';
     
     // Create connection
