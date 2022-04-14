@@ -31,6 +31,8 @@
         align-items: center;
         border-bottom: 20px;
         border: none;
+        cursor: pointer;
+        user-select: none;
     }
 
     .green {
