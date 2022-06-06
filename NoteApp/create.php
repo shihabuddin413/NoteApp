@@ -57,7 +57,7 @@ include_once('nav.php');
 <h2>Hi,Thanks For using our todo app.
 </h2>
 <h4>Have a quick look to your 
-  <a href="/app.php">todo list</a> wheather your newly created one exist or not?
+  <a href="/index.php">todo list</a> wheather your newly created one exist or not?
 </h4>
 
 <form action="./store.php" method="post">
